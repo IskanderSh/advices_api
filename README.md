@@ -19,4 +19,4 @@ Here is written some functions. For example:
 Here is written structures which I used for finding advices
 
 ### files/request.go
-Here I wrote all functions which implements GET requests and give me all 5) functions written in main.go(#main)
+Here I wrote all functions which implements GET requests and give me all 5) functions written in [main.go](#main)
